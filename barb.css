@@ -1,0 +1,94 @@
+html,
+body {
+	min-width: 1122px;
+	min-height: 1750px;
+	margin: 0;
+	padding: 0;
+}
+
+.main-header {
+	min-height: 72px; 
+	margin-bottom: 60px;
+}
+
+.content {
+	margin: 0 auto;
+	width: 940px;
+	padding: 0 10px;
+}
+
+.menu {
+	width: 780px;
+	float: left;
+}
+
+.user-block {
+	width: 140px;
+	float: right;
+}
+
+.clearfix {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.logo-general {
+	width: 368px;
+	height: 204px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
+
+.feature-item {
+	width: 300px;
+	float: left;
+	margin-right: 20px;
+}
+
+.feature-item:last-child {
+	margin-right: 0;
+}
+
+.feature {
+	margin-bottom: 64px;
+}
+
+.index-content {
+	padding: 50px 80px;
+	margin-bottom: 35px;
+}
+
+.index-content-left {
+	width: 380px;
+	float: left;
+	min-height: 330px;
+}
+
+.index-content-right {
+	width: 300px;
+	float: right;
+	min-height: 330px;
+}
+
+.main-footer {
+	min-height: 193px;
+	margin-top: 65px;
+}
+
+.contact {
+	float: left;
+	width: 320px;
+	margin-right: 80px;
+}
+
+.social {
+	float: left;
+	width: 140px;
+}
+
+.copyright {
+	float: right;
+	width: 140px;
+}
